@@ -29,7 +29,7 @@ A key innovation is the integration of complementary technologies: LlamaIndex, D
 The implementation leverages the LlamaIndex framework, Deep Lake vector stores, and OpenAI's models. Python tools were developed to construct these systems efficiently.
 The project highlights the crucial role of various index types (vector, tree, list, and keyword) in providing greater control over generative AI applications, enabling precise adjustments and improvements. Additionally, it introduces performance metrics to evaluate both response quality and retrieval time efficiency.
 
-### multimodal modular RAG
+### Multimodal modular RAG
 
 This multimodal modular RAG-driven generative AI system employs specialized modules tailored for diverse data types—primarily text and imagery—while seamlessly integrating the robust capabilities of LlamaIndex, Deep Lake, and OpenAI frameworks. This implementation of the Deep Lake VisDrone dataset provided comprehensive insights into advanced drone surveillance technologies, facilitating sophisticated image analysis and precise object detection. This dataset encompasses high-resolution imagery, detailed classification labels, and accurate bounding box coordinates for identified objects.
 
